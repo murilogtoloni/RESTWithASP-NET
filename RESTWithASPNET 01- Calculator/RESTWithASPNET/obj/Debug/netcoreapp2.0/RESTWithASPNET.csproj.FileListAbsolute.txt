@@ -1,0 +1,11 @@
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\bin\Debug\netcoreapp2.0\RESTWithASPNET.deps.json
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\bin\Debug\netcoreapp2.0\RESTWithASPNET.runtimeconfig.json
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\bin\Debug\netcoreapp2.0\RESTWithASPNET.runtimeconfig.dev.json
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\bin\Debug\netcoreapp2.0\RESTWithASPNET.dll
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\bin\Debug\netcoreapp2.0\RESTWithASPNET.pdb
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\obj\Debug\netcoreapp2.0\RESTWithASPNET.csprojAssemblyReference.cache
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\obj\Debug\netcoreapp2.0\RESTWithASPNET.csproj.CoreCompileInputs.cache
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\obj\Debug\netcoreapp2.0\RESTWithASPNET.AssemblyInfoInputs.cache
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\obj\Debug\netcoreapp2.0\RESTWithASPNET.AssemblyInfo.cs
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\obj\Debug\netcoreapp2.0\RESTWithASPNET.dll
+D:\ASPNET estudando\RESTWithASP-NET\RESTWithASPNET\RESTWithASPNET\obj\Debug\netcoreapp2.0\RESTWithASPNET.pdb

@@ -12669,11 +12669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASPNET estudando\\RESTWithASP-NET\\RESTWithASPNET\\RESTWithASPNET\\RESTWithASPNET.csproj",
+      "projectUniqueName": "D:\\ASPNET estudando\\RESTWithASP-NET\\RESTWithASPNET 01- Calculator\\RESTWithASPNET\\RESTWithASPNET.csproj",
       "projectName": "RESTWithASPNET",
-      "projectPath": "D:\\ASPNET estudando\\RESTWithASP-NET\\RESTWithASPNET\\RESTWithASPNET\\RESTWithASPNET.csproj",
+      "projectPath": "D:\\ASPNET estudando\\RESTWithASP-NET\\RESTWithASPNET 01- Calculator\\RESTWithASPNET\\RESTWithASPNET.csproj",
       "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
-      "outputPath": "D:\\ASPNET estudando\\RESTWithASP-NET\\RESTWithASPNET\\RESTWithASPNET\\obj\\",
+      "outputPath": "D:\\ASPNET estudando\\RESTWithASP-NET\\RESTWithASPNET 01- Calculator\\RESTWithASPNET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
